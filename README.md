@@ -64,7 +64,7 @@ Average sorting time: 43.8 milliseconds.
 
 ## Conclusion
 
-Std::sort consistently beats QuickSort many times with the shortest shorting time at 29 milliseconds
+Std::sort consistently beats QuickSort many times with the shortest sorting time at 29 milliseconds
 and slightly better average sorting time at 43.8 milliseconds
 
 
