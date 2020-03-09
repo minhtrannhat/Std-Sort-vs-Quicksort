@@ -1,4 +1,4 @@
-## Comparision between std::sort and quicksort by Minh Tran ID:40122374
+## Comparision between std::sort and quicksort by Minh Tran
 
 ### In theory
 
